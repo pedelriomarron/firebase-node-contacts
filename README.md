@@ -1,7 +1,11 @@
 # Ejemplo de FIREBASE + NODEJS
-## Objetivo 
+## Descripcion 
 
 Este es un ejemplo web para el aprendizaje y el desarrollo de como incorporar la base de datos Firebase en una web con una funcionalidad definida.
+
+## Objetivo
+
+Crear una app web capaz de guardar datos en una BBDD de Firebase y mostrarlos.
 
 ## Tecnologías usadas:
 
